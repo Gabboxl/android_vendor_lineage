@@ -64,7 +64,8 @@ endif
 
 # Customizations
 PRODUCT_PACKAGES += \
-    LineageNavigationBarNoHint
+    LineageNavigationBarNoHint \
+    LineageHiddenNavigationBar
 
 # Media
 PRODUCT_SYSTEM_DEFAULT_PROPERTIES += \
